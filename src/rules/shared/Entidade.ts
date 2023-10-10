@@ -1,4 +1,4 @@
-import Id from "./id";
+import Id from "./Id";
 
 export default abstract class Entidades {
     readonly id : Id
